@@ -1,217 +1,149 @@
-# The Presidency: Power Without Authority
-
-**TL;DR** The Constitution gave the president fewer formal powers than the legislative branch—the machinery of constraint. What it created instead was a platform. Over two centuries, presidents have learned to convert that platform into power through technology, crisis, and the slow accumulation of precedent.
-
----
-
-## Chapter Opening: The Problem of an Elected King
-
-It is September 1787, and the delegates to the Constitutional Convention are stuck.
-
-They have agreed on a single executive—not multiple executives, not a council, but one person. But what is that person allowed to do? The question has been circling the floor for weeks. Edmund Randolph and James Madison sketched only the roughest outline: a "national executive" who might veto legislation and could be removed. But James Wilson wanted direct election by the people; Alexander Hamilton wanted an elected king who served for life. William Paterson, speaking for the smaller states, wanted a weak committee that could be recalled by the states at will.
-
-The tension is not about psychology or virtue. The delegates are not asking "What kind of person makes a good executive?" They are asking a mechanical question: *What is the minimum power you can give a leader so they can actually govern, while ensuring they cannot become a tyrant?* This is the machinery of separation of powers. This is the problem the presidency was invented to solve, and solving it meant accepting a contradiction: a chief executive who could do less than Congress, but who might eventually do more.
-
-Washington would be elected unopposed. His cabinet would consist of four people. He issued only two vetoes. The presidency was, by design, a modest office. The Constitution gave it war powers and treaty powers, yes—but always shared, always checked by the Senate. It gave the president veto power, but two-thirds of Congress could override it. It let the president nominate judges, but only if the Senate confirmed. 
-
-The puzzle that emerges over the next two centuries is not whether the presidency grew—it did. The puzzle is *how*. The Constitution did not change fundamentally. But the office did. Presidents learned to work around constraints, to read silence in the Constitution as permission, to use technology and crisis and the sheer force of having a microphone that Congress did not have. By 2026, the presidency had become the most powerful single office in American government. And yet: the formal powers on the page remained almost unchanged.
+# Chapter 16 — The Presidency: Power Without Authority
+*How a Constrained Office Became the Most Powerful in American Government*
 
 ---
 
-## Concept 1: The Constitutional Settlement — Making Constraint Visible
+Here is the puzzle.
 
-Read the constitutional powers of the presidency, and you will notice what is missing.
+Read Article II of the Constitution — the article that creates the presidency. It is short. The president shall be commander-in-chief of the Army and Navy. The president can veto legislation, though Congress can override by two-thirds. The president nominates judges, ambassadors, and cabinet officers, but the Senate must confirm them. The president can make treaties, but only if two-thirds of the Senate agrees. The president shall "take care that the laws be faithfully executed" — meaning enforce the law, not make it.
 
-The president cannot raise an army alone. Congress must appropriate the money and authorize the force.
+That is most of it. Compare this to Article I, which creates Congress and goes on for pages: the power to tax, to borrow money, to regulate commerce, to coin money, to declare war, to raise and maintain an army and navy, to make all laws "necessary and proper" for carrying out these functions. Congress controls the budget. Congress writes the law. Congress declares war. The framers were explicit about where they were placing the power.
 
-The president cannot make law alone. Congress writes legislation; the president can veto it, but Congress can override.
+<!-- → TABLE: Side-by-side comparison of Article I (Congress) and Article II (President) powers — rows: power to declare war, power to fund the military, power to make law, power over treaties, power over appointments, power over the budget; columns: which branch holds it, what constraint applies, what happens when the two branches conflict; student should see the formal imbalance in favor of Congress and understand why the modern presidency's power is a puzzle that needs explaining -->
 
-The president cannot spend money on a whim. Every penny of federal spending must be appropriated by Congress. The Constitution is clear: "No money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law."
+And yet, in practice, the presidency has become the most consequential single office in American government. Presidents wage wars Congress never declared. Presidents make international commitments Congress never approved. Presidents issue rules that function as law, created without legislation. Presidents speak to the nation from the Oval Office and move public opinion in ways that bend Congress to their will.
 
-The president cannot make treaties. The president can negotiate them, but the Senate must ratify them by a two-thirds vote. This is no minor constraint—it means that any president trying to commit the nation to a major international agreement must persuade sixty-seven senators.
+The same document. Two centuries of practice. A completely different office.
 
-What the Constitution does grant, it grants narrowly. The president is "commander-in-chief of the Army and Navy of the United States." But "commander-in-chief" means control of forces that already exist. It does not mean the power to declare war. That power belongs to Congress. The framers studied history. They knew that one of the easiest ways to accumulate power is to wield it in the realm of war, where Congress is distant and information is scarce. They therefore locked war-making power in Congress's hands.
-
-The Constitution created the Electoral College—an indirect system of election meant to ensure that "fit" people, not demagogues, would become president. Electors from each state would cast votes; the person who received a majority would win. This was not direct election by the people. It was a two-stage filter meant to protect against what the framers called "corruption" and what we might call "capture by popularity." The second-place finisher became vice president. This arrangement misfired almost immediately. In 1796, John Adams won the presidency and his political rival Thomas Jefferson became vice president. In 1800, Thomas Jefferson and his running mate Aaron Burr tied in the Electoral College, and the House of Representatives had to decide the presidency in the thirty-sixth ballot. These disasters led to the Twelfth Amendment in 1804, which coupled a presidential candidate with a running mate. But the Electoral College structure remained: the presidency was not to be won by raw popular vote.
-
-**The Trade-Off:** Constraint versus Decisiveness
-
-The framers were explicit about the choice they were making. They wanted a chief executive strong enough to administer the government and lead during war, but weak enough that one person could never hold unilateral power. They settled on divided power—shared authority between branches. The price of this arrangement is inefficiency. Legislation moves slowly. Presidents must negotiate with Congress. In crisis, the president cannot act unilaterally, even when action is urgent. The benefit is that no one person can declare themselves dictator. The machinery makes tyranny harder.
-
-But the machinery creates a persistent problem: What happens when Congress is paralyzed, when negotiation breaks down, when crisis demands speed? The Constitution leaves this question open. It does not say the president *cannot* act unilaterally in the absence of congressional approval. It simply says Congress has certain powers. What it does not grant is implicitly contested space.
-
-**A Case Study: The Quasi-War and the Precedent of Action**
-
-In 1798, the United States was in a state of undeclared war with France. Merchant ships were being seized. American sailors were being killed. Congress had not formally declared war—such a declaration would have required a full legislative process. But the nation was at war in fact. President John Adams did what he judged necessary: he ordered the Navy to protect American merchant ships by force. He was acting beyond his explicit constitutional grant of power, and he knew it. But he was also responding to a circumstance Congress could not manage in real time.
-
-No one impeached him. Congress did not overrule him. And there was the precedent: when Congress's machinery could not move fast enough, the president had acted. Later presidents would invoke Adams's action to justify their own unilateral moves in matters of foreign policy and war. This is how the Constitution is actually used—not by the text alone, but by the precedent created when presidents stretch the text and Congress either accepts or fails to stop them.
-
-**Misconceptions:**
-
-- *The Constitution explicitly forbids the president from declaring war.* True. But it does not explicitly forbid the president from conducting military operations without a declaration. That distinction has enormous consequences.
-
-- *The president is the most powerful office in the U.S. government.* Formally, Congress is more powerful. Congress controls the budget, can override the veto, can impeach and remove the president, can change laws. In practice, the president has become the most visible and consequential office. But this is a shift in real power, not a shift in what the document says.
+Understanding how that happened requires understanding three mechanisms: technology, crisis, and precedent. None of them changed the text of the Constitution. All of them changed what the Constitution means in practice.
 
 ---
 
-## Concept 2: The Expansion Mechanism — How Presidents Claimed Power
+## What the Framers Were Afraid Of
 
-The presidency has grown through three interlocking mechanisms: *technology*, *crisis*, and *precedent*.
+To understand what the Constitution built, you have to understand what the framers were trying to prevent.
 
-**Technology: The Bully Pulpit and the Tools of Voice**
+They had just escaped a monarchy. They had watched what unchecked executive power looked like — a king who taxed without consent, quartered soldiers in homes, suspended trials by jury. They were not going to create another one. But they had also watched the Articles of Confederation fail because there was no executive at all — no one to enforce the laws, no one to conduct foreign policy, no one to act with the speed that governance sometimes requires. The challenge was to build something strong enough to govern and constrained enough not to tyrannize.
 
-For most of the nineteenth century, a president's main way of reaching the public was through newspapers and official documents. Circulation was local. Impact was slow. Theodore Roosevelt came to office in 1901, when motion picture newsreels were beginning to circulate. Roosevelt, who had always cultivated newspapers, saw the opportunity immediately. He used the new medium to take his case directly to the public. He coined a phrase for this: the "bully pulpit"—the presidency as a platform from which to push an agenda.
+The solution was divided power. The president would share authority with Congress at every turn. Commander-in-chief, but Congress declares war and funds the military. Treaty negotiator, but the Senate ratifies. Nominator of judges, but the Senate confirms. Veto power, but Congress can override. The design was explicit: no single branch should be able to act unilaterally on anything that matters.
 
-But the real expansion came with radio. Franklin D. Roosevelt broadcast thirty "fireside chats" to the nation between 1933 and 1944. The technology was simple: a microphone, a voice, and a way to reach millions of homes simultaneously. What changed was not the constitutional powers of the office. What changed was the ability to rally the public to pressure Congress.
+The Electoral College was part of this design. The framers did not trust direct election. They feared a demagogue — someone who could excite popular passions and ride them into office. So they created a two-stage filter: citizens would vote for electors, and the electors would exercise independent judgment in choosing a president. The second-place finisher would become vice president, which would prevent any one faction from controlling both offices. This plan misfired almost immediately. In 1796, John Adams won and Thomas Jefferson, his political enemy, became vice president. In 1800, Jefferson and his running mate Aaron Burr tied in the Electoral College and the House of Representatives had to resolve the deadlock over thirty-six ballots. The Twelfth Amendment in 1804 fixed the most obvious problem by coupling a presidential ticket, but the underlying tension between the framers' design and the reality of political parties had already revealed itself.
 
-Here is the mechanism: The president speaks on radio. Millions of Americans hear the president's voice in their homes. They are moved. They write letters to their representatives in Congress. Their representatives, seeing that their constituents support the president, vote for the president's legislation. The president has therefore exercised power—not by overriding Congress, but by making Congress respond to public pressure. The Constitution did not change. The machinery of persuasion changed.
-
-Television accelerated this effect. John F. Kennedy benefited from his telegenic appearance. Ronald Reagan, a trained actor, knew how to command a camera. By the time the Internet arrived, the president had multiple tools: television, social media, direct streaming. Presidents could now bypass traditional media altogether. Donald Trump sent dozens of tweets a day, reaching millions of followers with no intermediary, no editorial judgment except his own.
-
-**Crisis: War and Economic Collapse**
-
-When there is a genuine emergency, Americans grant the president powers they would never grant in normal times.
-
-Abraham Lincoln faced secession in 1861. He suspended the writ of habeas corpus—the right to be brought before a court and charged with a crime. Without this right, the government can detain people indefinitely without trial. Lincoln believed this suspension was necessary to prevent sabotage and maintain the war effort. He was exercising power that the Constitution did not explicitly grant to the president. But he was acting in the face of existential crisis. No one—including Congress—stopped him.
-
-Franklin D. Roosevelt took office in 1933, at the nadir of the Great Depression. Banks were failing. Unemployment was above 25 percent. Roosevelt declared a "bank holiday"—he ordered all banks in the nation closed—without explicit congressional authority. He then issued a flurry of executive orders creating new agencies (the Civilian Conservation Corps, the Works Progress Administration, the National Labor Relations Board) to put people to work and stabilize the economy. Congress authorized some of these post-hoc; others were acts of executive will. Later, the Supreme Court struck down some of these orders as unconstitutional. But by the time the courts ruled, the programs were already embedded in American life. The precedent was set: in extremis, the president can act.
-
-This is the machinery: Crisis creates urgency. Urgency makes Congress cede power because the legislative process cannot move fast enough. The president acts. If the action "works" (if the crisis passes, if the public supports it), then Congress is unlikely to reverse it. If the action doesn't work, Congress may overrule it or impeach the president. But the baseline has shifted. The next president inherits the precedent. What was emergency power becomes routine power.
-
-**Precedent: The Slow Accumulation of What Is Not Stopped**
-
-The Constitution is rewritten every time a president acts in a way Congress does not block. This is not a formal rewriting. It is an effective one.
-
-George Washington established a cabinet—a group of advisors to help him administer the executive branch. The Constitution does not mention a cabinet. But Washington created one, and every president since has done the same. The institution is now assumed to exist.
-
-Washington also issued a "neutrality proclamation" in 1793, declaring that the United States would not take sides in the wars between France and other European powers. He did this unilaterally, without asking Congress. He was claiming power over foreign policy based on his role as "commander-in-chief" and keeper of foreign relations. This set a precedent. Later presidents would expand this claim. By the twentieth century, the president's power over foreign policy was vast. Presidents could negotiate treaties (pending Senate ratification, but the negotiation was theirs). They could recognize foreign governments. They could decide whether to maintain diplomatic relations with other nations. Congress had little practical control over these decisions.
-
-Thomas Jefferson bought Louisiana from France for $15 million in 1803. This was the largest expansion of American territory in the nation's history, and it cost more than the entire federal budget for that year. Jefferson did not have congressional authorization for the purchase. He worried that he was violating the Constitution. But he also saw that Congress, with its slow deliberative process, could never have approved the purchase before the French offer expired. He acted unilaterally. Congress did not impeach him. It accepted the fact of the purchase and eventually appropriated the money. The precedent: when the circumstance is right, the president can make vast decisions unilaterally, and if Congress fails to stop him, the decision stands.
-
-By the twentieth century, these precedents had accumulated. Presidents could issue executive orders—rules that had the force of law, issued without congressional approval. Presidents could sign executive agreements with foreign nations, committing the United States to international obligations, pending Senate approval of treaties but not requiring it for every agreement. Presidents could claim "executive privilege"—the right to withhold information from Congress and the courts. Presidents could remove cabinet officers without Senate approval (the Supreme Court settled this in 1926). And presidents could wage war without a formal declaration by Congress, provided they could frame it as a "police action" or use the president's role as commander-in-chief to justify military operations in defense of national security.
-
-**The Trade-Off: Power Without Accountability**
-
-Here is the contradiction that emerges: The president has accumulated vast powers in the modern era. But these powers are fragile. An executive order can be struck down by courts. It can be reversed by a successor. A treaty signed by a president can be abandoned by the next president. An executive agreement can be rejected by Congress if Congress chooses to act. Military action without a declaration of war is constitutionally questionable, even if Congress tolerates it.
-
-What the president has gained is *latitude*—the ability to act unilaterally in a space Congress has not filled. What the president has not gained is *permanence*. Everything the president does unilaterally can be undone. This creates a peculiar kind of power: strong in the moment, fragile over time. Presidents therefore reach for media, for public support, for the political tools that can make their power stick. They "go public"—they deliver televised addresses in hopes that public pressure will make Congress support them. They build administrative capacity—they expand the White House staff and create new executive agencies that can carry out their vision without congressional approval. They issue signing statements—statements made when signing legislation that declare how the executive branch will interpret the law. These are tools of persuasion and reinterpretation, not formal power.
-
-**Misconceptions:**
-
-- *Executive orders have the same force as laws passed by Congress.* No. Executive orders can be overturned by Congress, by courts, or by a successor president. They have force only to the extent that Congress and the courts permit.
-
-- *Presidents can act unilaterally in all matters of national security.* Congress has attempted to constrain presidential war powers. The War Powers Resolution of 1973 requires the president to notify Congress within 48 hours of committing armed forces to military action and limits military operations to 60 days without congressional authorization. Presidents have consistently claimed this law is unconstitutional, and they have generally ignored it. Congress has never forced the issue.
+What the framers could not design for was the future. They imagined a president who would administer a government roughly the size of a large Virginia plantation. They did not imagine radio. They did not imagine a standing army of millions. They did not imagine a federal government that touched every aspect of American economic and social life. They built constraints into the office. But the constraints assumed a world that changed.
 
 ---
 
-## Concept 3: The Two Presidencies — Domestic Constraint, Foreign Latitude
+## Technology Changed the Platform
 
-There is a striking asymmetry in presidential power: The president has far more latitude in foreign policy than in domestic policy.
+For most of the nineteenth century, the president's primary tool of communication was writing. Presidents sent messages to Congress. Newspapers might reprint those messages, filtered through editors and with variable accuracy. A president's voice reached the public slowly, indirectly, and with significant loss of signal along the way.
 
-**Domestic Policy: Congress Rules**
+Theodore Roosevelt changed the calculus. He understood — earlier than almost any other president — that the presidency was a platform. He called it the "bully pulpit," and he used it aggressively. He cultivated newspapers. He made himself available to journalists. He understood that whoever controlled the narrative controlled the politics. But his tools were still slow. Print had limits.
 
-When the president wants to change domestic policy—to raise the minimum wage, to regulate pollution, to establish health care reform—the president needs Congress. The president cannot raise taxes. The president cannot spend money that Congress has not appropriated. The president cannot pass laws. The president can urge Congress to act. The president can veto legislation the president dislikes. The president can attempt to persuade the public and thereby persuade Congress. But fundamentally, in domestic policy, Congress holds the power of the purse and the power to legislate.
+Radio broke those limits. Franklin D. Roosevelt broadcast thirty "fireside chats" between 1933 and 1944. The mechanism was simple and the effect was profound: for the first time in American history, the president's voice could enter millions of homes simultaneously. FDR spoke in plain language about complex problems — the banking crisis, the war in Europe — and Americans listened in their living rooms as if the president were sitting across from them.
 
-This has real consequences. Bill Clinton was elected in 1992 partly on the promise of health care reform. Clinton appointed his wife, Hillary, to chair a task force on health care. The task force developed a proposal. But the proposal faced fierce opposition from the insurance industry, pharmaceutical companies, and conservative Republicans. The Republican opposition was particularly effective because they controlled the narrative in the media. After months of struggle, the proposal failed. Clinton, who had the presidency and who believed he had a mandate, could not overcome congressional opposition in his own party, let alone Republican opposition. His attempt at unilateral action (delegating the issue to his wife, who was not subject to confirmation) only made the opposition more fierce. The lesson: in domestic policy, even a popular president must negotiate with Congress. If Congress opposes the president, the president generally loses.
+Here is the mechanism that matters: The president speaks. Millions hear it. They write to their representatives. The representatives, watching their mail pile up, conclude that their constituents support the president's agenda. They vote accordingly. The president has accomplished something without any formal constitutional power — without legislation, without appropriation, without treaty. He moved public opinion, and public opinion moved Congress.
 
-**Foreign Policy: The President Decides**
+<!-- → INFOGRAPHIC: Flow diagram of the bully pulpit mechanism — president speaks (radio/TV/social media) → public hears → constituents contact representatives → representatives respond to constituent pressure → legislation or policy shifts; a second parallel path showing the pre-radio version (president writes message → newspapers filter → slow local circulation → minimal public response) so the student can see what changed and why technology expanded practical power without changing formal authority -->
 
-In foreign policy, the president has vast latitude. This reflects both the Constitution (which makes the president commander-in-chief and the primary representative of the nation in international relations) and the practical reality that foreign policy moves too fast for Congress to manage in real time.
+Television accelerated this effect. Kennedy was the first president whose appearance on camera was itself a political asset. Reagan was a trained actor who understood lighting and cadence and how to speak to a camera as if speaking to one person. By the time the internet arrived, presidents could reach audiences with no intermediary at all — no editor, no filter, no delay. Donald Trump sent dozens of tweets daily to tens of millions of followers, setting the news agenda for the day before journalists had finished their morning coffee.
 
-The president can recognize or refuse to recognize foreign governments. The president can decide whether to maintain diplomatic relations. The president can negotiate treaties (pending Senate ratification, but the negotiation is the president's). The president can sign executive agreements with other nations without Senate approval. The president can commit the U.S. armed forces to military action, provided the president can frame it as "defensive" or as an emergency that Congress will later ratify.
-
-Example: In 1964, President Lyndon B. Johnson reported that American destroyers had been attacked by North Vietnamese forces in the Gulf of Tonkin. Congress was not asked to declare war. Instead, Congress passed the Gulf of Tonkin Resolution, which gave the president a blank check to wage war in Vietnam "as the President determines." The president then escalated the war dramatically, with hundreds of thousands of American troops eventually deployed. Decades later, historians determined that the second attack probably did not happen. The first attack was ambiguous. But the resolution had already been passed, and the war was already underway. Congress, having granted the president power, had difficulty reclaiming it.
-
-This is the machinery of the two presidencies: In foreign policy, Congress grants the president broad authority, often after the fact. The president acts. Congress ratifies, or fails to stop. The precedent is set.
-
-**The Trade-Off: Safety and Danger**
-
-Why does Congress cede so much power to the president in foreign policy? The answer is practical. Foreign policy moves too fast for the legislative process. If the United States must respond to an attack, Congress cannot convene, debate, and vote in real time. The president must be able to act.
-
-But this creates a danger. Presidents can use foreign policy power for domestic purposes. They can fight unpopular wars. They can sign treaties that commit the nation to obligations the public did not foresee. They can justify military action by invoking national security in ways that are difficult to disprove.
-
-Congress attempted to constrain this power with the War Powers Resolution of 1973, passed after the Vietnam War had become unpopular. The resolution requires the president to notify Congress within 48 hours of committing armed forces to military action and requires the president to terminate the military operation after 60 days unless Congress authorizes it. But presidents have consistently argued that this law violates the constitutional grant of commander-in-chief power to the president. They have simply ignored it, claiming that they are acting in "emergency" circumstances. Congress has threatened to invoke the War Powers Resolution but has never actually forced a president to withdraw forces or cut off funding for a military operation. The result is that presidential war power remains vast, and Congress's power to constrain it remains theoretical.
-
-**Misconceptions:**
-
-- *The president cannot wage war without Congress's approval.* Technically, this is true—the Constitution grants Congress the power to declare war. Practically, the president can commit armed forces to military action and then claim emergency circumstances. If Congress does not defund the operation, the president's action stands.
-
-- *Treaties always require Senate approval.* Treaties do. But presidents can accomplish similar purposes through executive agreements, which do not require Senate approval. The line between a treaty and an executive agreement is often unclear.
+None of this is in the Constitution. The framers could not have written it into the Constitution. What they built was a formal structure that technology reshaped without touching. The president's constitutional powers stayed the same. The president's practical power — to set the national agenda, to move public opinion, to make Congress respond — grew with every new medium.
 
 ---
 
-## Integration: The Constitution as a Living Document
+## Crisis Granted What Constraint Refused
 
-The Constitution did not change between 1787 and 2026. The document is the same. But the presidency is unrecognizable.
+When there is a genuine emergency, Americans have consistently granted presidents powers they would refuse in normal times. This is not irrational. It reflects the basic truth that some situations require fast decisions and that Congress's deliberative process cannot move fast enough. But the pattern has a ratchet quality: the emergency powers rarely disappear when the emergency ends.
 
-This is not because the Constitution is vague (though it is, in places). It is because the Constitution is a framework that must be filled in by practice. Every president decides what the framework permits. Every Congress decides whether to challenge the president's interpretation. Every Supreme Court decision resolves a dispute about what the Constitution allows.
+Abraham Lincoln faced the most extreme version of this problem. In 1861, the Southern states were seceding. Lincoln needed to act before Congress could convene. He called up militia, blockaded Southern ports, and suspended the writ of habeas corpus — the right that requires the government to bring a detained person before a court and charge them with a crime. The Constitution says Congress may suspend habeas corpus in cases of rebellion or invasion. Lincoln did it anyway, on his own authority, because he believed the survival of the Union required it.
 
-The presidency grew because of three convergences:
+Congress eventually ratified most of what Lincoln had done. The Supreme Court, in some cases, did not. But the government did not collapse, and the Union survived. What survived with it was a precedent: in existential crisis, the president may act beyond explicit constitutional grant, and if the action works — if Congress accepts it, if the courts permit it — the president's power has expanded.
 
-1. **Technology created the tools of persuasion.** Radio, television, and social media made it possible for the president to speak directly to the public. This transformed the president from an administrator into a political leader. A president who can move public opinion can pressure Congress in ways the framers did not foresee.
+Franklin Roosevelt took office in 1933 with 25 percent unemployment and banks failing across the country. In the first hundred days, he issued a flood of executive orders creating agencies that did not exist — the Civilian Conservation Corps, the Works Progress Administration, the National Labor Relations Board — and directing federal money toward employment and economic stabilization. Congress authorized some of this after the fact. The Supreme Court later struck down some of it as unconstitutional. But by the time the courts ruled, the programs were embedded in American life. The precedent was set: in severe economic crisis, the president could act first and ask for authorization later.
 
-2. **Crisis granted extraordinary powers that were never rescinded.** Lincoln suspended habeas corpus. FDR created agencies by executive order. These were presented as emergency measures. But the emergency passed, and the powers remained. Each crisis expanded the baseline of what presidents could do.
+The mechanism works like this. Crisis creates urgency. Urgency makes Congress willing to cede authority — partly because the situation genuinely demands speed, partly because no legislator wants to be blamed for inaction during a national emergency. The president acts. If the action works, or if the public supports it, the political cost of reversing it is too high. The emergency ends. The power remains. The next president inherits it as normal operating capacity rather than emergency exception.
 
-3. **Precedent accumulated.** When a president acted in a way Congress did not block, the action became normalized. The next president inherited the precedent and pushed further. Over time, what began as extraordinary became routine.
+This is how the baseline shifts. It is not a single dramatic grab for power. It is an accumulation of small ratchet clicks, each one justified by the circumstances of its moment, each one never quite reversed.
 
-The result is a presidency that is far more powerful than the Constitution explicitly grants, but not as powerful as it might be. The president still needs Congress to appropriate money. The president still needs the Senate to ratify treaties. The president still faces the threat of impeachment. But in the space Congress has left open—in foreign policy, in the use of executive orders, in the power to shape administrative action, in the control of the message through media—the president exercises power that rivals Congress's own.
-
-This is not tyranny. It is not what the framers envisioned. But it is what has emerged because the framers built a system of separated powers and did not anticipate how technology and precedent would shift the balance.
+<!-- → INFOGRAPHIC: Ratchet diagram showing presidential power expanding through successive crises — a horizontal baseline labeled "formal constitutional power" with upward steps at key moments: Lincoln/Civil War (habeas corpus suspension), Wilson/WWI (emergency economic powers), FDR/Depression (executive agency creation), FDR/WWII (Japanese American internment), Truman/Korea (undeclared war), and post-9/11 (surveillance, detention); each step shows the crisis that justified the expansion and whether the power was subsequently reversed or retained; student should see the asymmetry: steps up are common, steps back are rare -->
 
 ---
 
-## Exercises
+## Precedent Fills the Silence
 
-**Warm-Up: Reading the Text**
+The Constitution is not only what it says. It is also what it does not say — and what happens when presidents act in the silence.
 
-1. Read the section of the Constitution that describes the president's powers (Article II, Sections 2 and 3). List every power the Constitution explicitly grants. Then list every power Congress must approve before the president can exercise it. What does this tell you about the framers' intentions?
+George Washington issued a "neutrality proclamation" in 1793, declaring that the United States would not take sides in the European wars between France and Britain. The Constitution does not give the president the power to make foreign policy declarations of this kind. Washington did it anyway, on the theory that conducting foreign relations was inherent to his role as the nation's chief executive and representative abroad. Congress did not stop him. The proclamation stood.
 
-2. Compare two inaugural addresses: Abraham Lincoln's first inaugural (1861) and Franklin D. Roosevelt's first inaugural (1933). How does each president frame the crisis he faces? How does each justify the powers he will claim? What language does each use to appeal to the public?
+Thomas Jefferson bought Louisiana from France in 1803 for $15 million — roughly the entire federal budget for that year. Jefferson worried that he was exceeding his constitutional authority. He was right to worry. Nothing in the Constitution explicitly authorizes a president to purchase foreign territory. But the opportunity was real, the French offer was expiring, and the legislative process could not move fast enough. Jefferson acted. Congress did not impeach him. It appropriated the money after the fact. The Louisiana Purchase stood, and with it a precedent: when the circumstances are right and the opportunity is fleeting, the president may act first and seek ratification later.
 
-**Application: Mechanisms in Action**
+This is how precedent accumulates. Each time a president acts and Congress does not stop it, the action becomes part of the constitutional practice — not because the text changed, but because the text was silent and the silence was filled. The next president can point to the prior action as justification. Over time, what began as an extraordinary stretch becomes routine.
 
-3. **Case: The Iranian Nuclear Deal.** In 2015, President Barack Obama negotiated an agreement (the Joint Comprehensive Plan of Action) with Iran to limit Iran's nuclear program in exchange for the lifting of sanctions. The agreement was not approved by the Senate as a treaty; instead, it was signed by the president as an international agreement. When Donald Trump took office, he withdrew the United States from the agreement by executive order. 
-   - Did the president have the authority to make and unmake this agreement without Senate approval?
-   - What does this case reveal about the difference between treaties and executive agreements?
-   - Who really decides America's foreign policy: the president or Congress?
+By the twentieth century, these accumulations had hardened into the doctrine of the "unitary executive" — the claim that the president has inherent authority over the entire executive branch, including the right to issue rules (executive orders) that function as law, to withhold information from Congress and courts (executive privilege), and to conduct foreign policy largely free of congressional oversight.
 
-4. **Case: The Pardon Power.** At the end of his presidency, Donald Trump issued 237 pardons, including controversial figures such as his former advisor Steve Bannon and others. The pardon power is granted to the president by the Constitution and cannot be overridden by Congress. 
-   - Is it appropriate for a president to use the pardon power for political allies?
-   - Should Congress have the power to constrain the pardon power? Why or why not?
-   - Does the existence of an unlimited pardon power violate the separation of powers?
+The fragility of this power is worth noting. An executive order can be struck down by a federal court. It can be reversed by a successor. International agreements made by one president can be abandoned by the next. Everything the president does unilaterally can, in principle, be undone. This is what makes the modern presidency such an unusual creature: vast practical power, resting on foundations that are constitutionally thin. The president must constantly work to make the power stick — through public support, through speed of action, through the sheer difficulty of reversing what is already done.
 
-**Synthesis: The Evolution of Power**
-
-5. **Comparative Presidents:** Pick two presidents from different eras (e.g., Andrew Jackson and FDR; Theodore Roosevelt and Trump). For each president, identify:
-   - One major action the president took without explicit congressional approval
-   - How Congress and the public responded
-   - Whether the action set a precedent for future presidents
-   - What this tells you about how presidential power expands
-
-6. **The Modern Presidency:** Imagine you are a congressional aide advising a senator on a new treaty the president has signed without Senate approval, framing it as an "executive agreement." 
-   - What questions would you ask to determine whether Congress should challenge the president's authority?
-   - What tools does Congress have to constrain this action?
-   - What are the risks to Congress of challenging the president?
-   - What are the risks of accepting the precedent?
+<!-- → TABLE: Comparison of formal law vs. presidential unilateral action — rows: enacted by, requires to undo, can courts overturn, survives change of president, example; columns: law passed by Congress, executive order, executive agreement, presidential proclamation; student should see that formal law is durable where unilateral action is fragile, and understand why presidents nevertheless prefer speed over durability in many cases -->
 
 ---
 
-## Summary
+## The Two Presidencies
 
-The presidency was designed as a constrained office. The Constitution gave the president fewer explicit powers than Congress. But over two centuries, presidents claimed powers Congress had not granted. This happened through three mechanisms: technology (which gave presidents the ability to speak directly to the public), crisis (which made Congress willing to grant emergency powers), and precedent (which normalized extraordinary actions). The result is a modern presidency that is far more powerful than the text of the Constitution explicitly permits. But this power is fragile—it depends on Congress's willingness to tolerate it and on the courts' willingness to let it stand. Domestic policy remains largely within Congress's domain; the president needs congressional approval to spend money, to raise taxes, to legislate. Foreign policy, by contrast, gives the president vast latitude. The president can wage war, negotiate treaties, and commit the nation to international obligations with limited congressional oversight. The Constitution did not change. The practice of the Constitution did.
+There is a striking asymmetry in how this accumulated power distributes across policy areas.
+
+In domestic policy, the president remains largely constrained. The president cannot raise taxes without Congress. The president cannot spend money Congress has not appropriated. The president cannot pass laws. The president can veto legislation, but a veto is a negative power — it stops things rather than starting them. When Bill Clinton tried to pass comprehensive health care reform in 1993 and 1994, he had the presidency and he had a Democratic Congress. He still failed. The insurance industry opposed it, conservative legislators opposed it, and the president's ability to persuade could not overcome organized resistance with money and access. In domestic policy, Congress holds the structural power. The president can set the agenda, propose legislation, and lobby Congress — but cannot force the outcome.
+
+In foreign policy, the picture looks completely different. The president can recognize or refuse to recognize foreign governments. The president can maintain or sever diplomatic relations. The president can negotiate international agreements and, by framing them as "executive agreements" rather than "treaties," avoid the Senate ratification requirement entirely. The president can commit American military forces to action and then present Congress with a fait accompli.
+
+The Gulf of Tonkin Resolution in 1964 is the clearest example of how this works. President Lyndon Johnson reported that American destroyers had been attacked by North Vietnamese forces in international waters. Congress, presented with this claim, passed a resolution granting the president authority to use military force in Southeast Asia "as the President determines." Decades later, historians established that the second reported attack almost certainly did not happen. The first was ambiguous. But the resolution had already been passed, and the war was already underway. By the time Congress wanted to reclaim its authority, half a million American troops were in Vietnam and the political cost of withdrawal was enormous.
+
+Congress tried to learn from this with the War Powers Resolution of 1973, passed after Vietnam had become the defining disaster of a generation. The resolution requires the president to notify Congress within 48 hours of committing forces to military action and to terminate the operation after 60 days unless Congress authorizes it. Every president since Nixon has treated this law as unconstitutional and ignored it. Congress has never forced the issue. Military operations have been conducted — in Grenada, Panama, Kosovo, Iraq, Libya, Syria, and elsewhere — without formal congressional declarations of war. The War Powers Resolution sits on the books as a statement of intent that no one has been willing to enforce.
+
+<!-- → CHART: Timeline of major U.S. military operations from 1973 to present — annotated to show which had formal congressional declarations of war (none after 1941), which had congressional authorizations short of declarations (Gulf of Tonkin 1964, AUMF 2001, Iraq 2002), and which had neither (Grenada 1983, Panama 1989, Kosovo 1999, Libya 2011, Syria strikes); student should see that the War Powers Resolution has not produced a single case of a president terminating an operation because the 60-day clock expired -->
+
+The asymmetry between domestic and foreign policy follows from the mechanisms already described. Domestic policy is visible to the public, which means Congress is accountable to constituents who care about the outcome. Foreign policy is often fast-moving, technically complex, and geographically distant — conditions under which Congress has historically ceded authority and the president has historically claimed it.
 
 ---
 
-## Connections Forward
+## What the Machinery Produces
 
-The presidency is half the executive branch. The other half is the bureaucracy—the vast apparatus of agencies, departments, and civil servants that actually implement presidential policy. A president who can command a microphone cannot direct a bureaucrat to violate their civil service rules. A president who can issue an executive order still needs the bureaucracy to carry it out. In the next chapter, we examine how the federal government actually works: not through the president's will alone, but through the interaction of presidential direction and bureaucratic constraint. We also examine how the courts check the president. A president who issues an order can face a lawsuit. A federal judge can declare the order unconstitutional. The Supreme Court has overturned executive actions. The separation of powers is not just about Congress and the presidency. It is about the complex interaction of all three branches.
+The modern presidency is not what the framers designed. They designed an administrator with shared authority. What emerged is the most visible political office in the world, with the capacity to set the national agenda, to conduct foreign policy largely unilaterally, and to issue rules that function as law.
+
+But the power has a specific shape. It is strong where Congress is weak: in foreign affairs, in crisis, in the ability to move public opinion through media. It is weaker where Congress is strong: in the budget, in domestic legislation, in the slow-moving areas of policy where organized interests have time to mobilize and where constituents are paying attention.
+
+And it is fragile in a way that purely formal power is not. A law passed by Congress and signed by a president is hard to undo — it requires majorities in both chambers and another president's signature. An executive order can be reversed by a new president on day one. An international agreement made without Senate ratification can be abandoned without Senate approval. The president's accumulated power is real but thin — dependent on continuous political support, on Congress's willingness not to push back, on courts that defer rather than strike down.
+
+This fragility is not a flaw in the system. It is, in a strange way, the system working. The framers built a structure that would resist permanent concentration of power. They could not prevent the accumulation of practical power over time. But they built enough friction into the system that the accumulation never hardened into something irremovable. The president is powerful. The president is also always, in some sense, one bad election and one Congress away from a great deal less.
 
 ---
 
-**What Would Change My Mind:** Evidence that Congress has successfully reasserted control over the presidency through either legislative action or impeachment would suggest that the expansion of executive power has limits.
+## What Would Change My Mind
 
-**Still Puzzling:** The War Powers Resolution of 1973 purports to limit the president's ability to wage war without Congress. Yet presidents have ignored it for fifty years. Why has Congress never forced the issue? Is congressional inaction evidence that Congress agrees the president should have this power, or evidence that Congress lacks the political will to challenge the president?
+Evidence that Congress has successfully and durably reasserted control over the presidency — through the War Powers Resolution or some equivalent mechanism that presidents actually obeyed — would require revising the argument here that congressional constraint on executive power is primarily theoretical. The pattern so far is consistent: Congress passes constraining legislation, presidents ignore it, Congress declines to force the issue.
 
 ---
 
-**Tags:** #presidency #executive-power #separation-of-powers #constitutional-interpretation #war-powers #executive-orders #american-government
+## Still Puzzling
+
+The War Powers Resolution has been on the books for more than fifty years. Presidents have ignored it for fifty years. Congress has never forced the confrontation. This could mean that Congress tacitly agrees the president should have broad war powers. It could mean Congress lacks the political will to challenge a popular president on military matters. It could mean the resolution itself is poorly designed as an enforcement mechanism. I do not know which of these is true, and the distinction matters enormously for how to think about presidential accountability.
+
+---
+
+## LLM Exercises
+
+**1. Reading the silence.**
+The Constitution does not say the president can issue executive orders with the force of law. It does not say the president cannot. George Washington issued the first executive order in 1789 — directing department heads to report on the state of their departments. Since then, every president has issued them. Using the mechanisms described in the chapter — technology, crisis, and precedent — explain how executive orders went from Washington's administrative directive to a major tool of presidential governance. At what point in this history does the precedent become constitutional practice? Who decides?
+
+**2. The two presidencies, a specific case.**
+In 2015, President Obama negotiated the Joint Comprehensive Plan of Action with Iran, limiting Iran's nuclear program in exchange for lifting sanctions. He framed it as an executive agreement rather than a treaty, avoiding the Senate ratification requirement. In 2018, President Trump withdrew from the agreement by executive order. No Senate vote was required in either direction.
+Evaluate this sequence: Did Obama have the authority to make the agreement without Senate approval? Did Trump have the authority to withdraw without Senate approval? What does this case reveal about the difference between a treaty and an executive agreement — and about who actually controls American foreign policy?
+
+**3. Crisis and the ratchet.**
+The chapter argues that crisis powers rarely disappear when the crisis ends. Using Lincoln's suspension of habeas corpus and Roosevelt's executive orders during the Depression as your evidence, make the case that this ratchet effect is necessary and appropriate in a democracy. Then write the counterargument: that the same pattern is dangerous regardless of how the crisis justifies it. Which argument do you find more convincing, and what evidence would change your mind?
+
+**4. The War Powers Resolution.**
+The War Powers Resolution (1973) requires the president to notify Congress within 48 hours of committing forces to military action and to terminate operations after 60 days without congressional authorization. Every president since Nixon has claimed the law is unconstitutional. Congress has never forced a confrontation. In 2011, President Obama conducted military operations in Libya for months without congressional authorization, and when the 60-day limit passed, the administration argued that the operations did not qualify as "hostilities" under the resolution.
+Evaluate: Is the War Powers Resolution constitutional? Is it good policy? If Congress genuinely wanted to constrain presidential war powers, what mechanism might actually work — given that the resolution has not?
+
+**5. Technology and the unintended presidency.**
+The framers designed the presidency before radio, television, or the internet existed. The bully pulpit — the president's ability to speak directly to the public — did not exist in the form we know it. Using the mechanism described in the chapter (president speaks → public responds → Congress responds), argue that modern communications technology has effectively rewritten the constitutional balance of power between the president and Congress without amending the Constitution. What would the framers have had to add to Article II to account for this possibility? Would such an addition have made the system more or less democratic?

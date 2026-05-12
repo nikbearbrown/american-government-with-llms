@@ -7,9 +7,9 @@ Here is a puzzle worth sitting with.
 
 The men who wrote the American Constitution believed — and wrote down, in a document we still teach — that all men are created equal and possess inalienable rights. Several of them also owned other human beings. Some of them wrote provisions into the Constitution specifically to protect the institution that made owning human beings legal.
 
-This is not a paradox that resolves easily. I want you to hold it alongside everything else in this chapter, because it is not a footnote. It is the central tension in the American founding, and it has never fully dissolved.
+This is not a paradox that resolves easily. Hold it alongside everything else in this chapter, because it is not a footnote. It is the central tension in the American founding, and it has never fully dissolved.
 
-But to understand how the Constitution came to exist at all, you have to start earlier, with a government that was failing in a very specific and instructive way.
+But to understand how the Constitution came to exist at all, you have to start earlier — with a government that was failing in a very specific and instructive way.
 
 ---
 
@@ -21,7 +21,7 @@ The colonists had just escaped a government that taxed them without their consen
 
 The national government could ask the states for money. The states could say no. Most of them usually did.
 
-<!-- → IMAGE: A map of the thirteen original states under the Articles of Confederation (1781–1789), with state borders clearly marked and brief annotations showing which states most frequently refused to fund the national government — student should see the geographic and political fragmentation before the Constitution -->
+<!-- → TABLE: Side-by-side comparison of key powers under the Articles of Confederation vs. the Constitution — columns: power, Articles of Confederation, Constitution, practical consequence — student should see the specific structural gaps that produced each crisis described in this section -->
 
 Think about what this means in practice. You are a new country with debt from a revolution. You owe soldiers, foreign governments, and domestic creditors. Your currency — the Continental — is worthless. "Not worth a Continental" becomes a phrase people use for anything without value. And the mechanism you built to pay these debts requires the cooperation of thirteen separate state governments, each with its own interest in not paying.
 
@@ -31,9 +31,9 @@ Defense was another gap. The national government could declare war but depended 
 
 And if you wanted to fix any of this, you couldn't. Amending the Articles required unanimous consent from all thirteen states. One state could block any reform indefinitely. Unanimity is not a governance mechanism. It is a veto distributed to every participant.
 
-<!-- → TABLE: Side-by-side comparison of key powers under the Articles of Confederation vs. the Constitution — columns: power, Articles (yes/no/partial), Constitution (yes/no/partial), practical consequence of the difference — student should see the specific gaps that produced each crisis -->
-
 What forced the issue was not a policy failure but a human one. In western Massachusetts in 1786, a farmer named Daniel Shays — a veteran of the Revolution, a man who had done what the country asked of him — faced the consequence of all this dysfunction directly. The state wanted taxes he could not pay. A creditor wanted debts he could not service. Hard currency was scarce; the courts were not. Shays organized. Other veterans joined him. They shut down courthouses to prevent debt proceedings.
+
+<!-- → IMAGE: Map of western Massachusetts showing the courthouses Shays' forces targeted in 1786–1787, with brief annotations of each location and outcome — student should see that the rebellion was geographically concentrated and courthouse-specific, not a general uprising, which explains why a locally funded militia was sufficient to end it -->
 
 The national government had no troops to send. A privately funded militia eventually ended the rebellion. But the spectacle had done its work: men who held property and managed commerce across multiple states understood that the government they had was incapable of maintaining the conditions that made their world function. Something had to be rebuilt.
 
@@ -53,13 +53,13 @@ The second fear: a government too weak to function, like the one they had just w
 
 The solution was separation of powers. Not because the framers invented the idea — Montesquieu had articulated it, and the colonists had read Montesquieu — but because it directly addressed both fears simultaneously. Divide authority among three branches: a legislature that makes law, an executive that enforces it, a judiciary that interprets it. None of the three can hold more than one role. This prevents the concentration that produces tyranny. It also prevents the paralysis that comes from having no center at all.
 
-<!-- → INFOGRAPHIC: Diagram of the three branches of government showing the separation of powers and, overlaid, the checks each branch holds over the others — arrows should make visible that the relationship is not just separation but mutual constraint; student should be able to trace any single check (e.g., presidential veto, Senate confirmation, judicial review) back to its source branch and forward to its target branch -->
+<!-- → INFOGRAPHIC: Diagram of the three branches with bidirectional arrows showing each check one branch holds over the others — student should be able to trace any single check (e.g., presidential veto, Senate confirmation, judicial review) back to its source branch and forward to its target; the point is that separation and constraint are two distinct design layers -->
 
-Separation of powers alone is not enough, though. Isolation is not constraint. What actually limits each branch is the system of checks and balances built on top of the separation: Congress passes a law, but the president can veto it. The president can be overridden by a two-thirds majority in both chambers. The president appoints judges, but the Senate confirms them. The Supreme Court can rule laws unconstitutional. Congress can impeach and remove the president.
+Now, separation of powers alone is not sufficient. Isolation is not constraint. Here is the key insight the framers added on top of the separation: each branch holds specific powers over the others. Congress passes a law, but the president can veto it. The president can be overridden by a two-thirds majority in both chambers. The president appoints judges, but the Senate confirms them. The Supreme Court can rule laws unconstitutional. Congress can impeach and remove the president.
 
 Here is the design philosophy embedded in this machinery: no one should be able to act unilaterally on anything that matters. Every significant action requires negotiation across branches. This trades speed for stability. A single determined leader cannot simply impose will. But neither can a single determined faction. The system forces cooperation, or it forces paralysis, and the framers calculated that paralysis was preferable to tyranny.
 
-The question they did not fully answer — that no constitutional system has fully answered — is what happens when that calculated paralysis becomes the normal operating mode of government. That is a problem we return to later.
+The question they did not fully answer — that no constitutional system has fully answered — is what happens when that calculated paralysis becomes the normal operating mode of government.
 
 ---
 
@@ -73,7 +73,7 @@ Small states — Delaware, New Jersey, Connecticut — refused. Under a purely p
 
 Roger Sherman proposed what became the Great Compromise: a bicameral legislature. The House of Representatives, apportioned by population — your representation scales with your numbers. The Senate, where every state gets exactly two seats, regardless of size.
 
-<!-- → CHART: Bar chart comparing state populations in 1790 alongside Senate seats (uniform at 2) and House seats (proportional) for all thirteen original states — student should see the magnitude of the disparity the Senate created and understand concretely what small states gained and large states conceded -->
+<!-- → CHART: Bar chart comparing 1790 populations of the original thirteen states alongside their Senate seats (uniform at 2) and House seats (proportional) — student should see the magnitude of the disparity the Senate created and understand concretely what small states gained and large states conceded in the Great Compromise -->
 
 The Senate has been controversial ever since, because it means that Wyoming and California each get two senators, despite a population ratio of roughly 70 to 1. A minority of Americans can block legislation supported by a majority. Whether this is a safeguard against majoritarian overreach or a structural brake on democratic governance is not a settled question. The framers considered it a feature. Critics have argued for two centuries that it is a bug. Both positions are defensible. The important thing is to see what was being traded: the small states got assurance that they could not simply be ignored; the large states got a chamber that reflects their numbers.
 
@@ -81,7 +81,7 @@ The Senate has been controversial ever since, because it means that Wyoming and 
 
 ## The Question That Could Not Be Answered
 
-Here is where I have to be direct with you about something that tends to get softened in American history courses.
+Here is where I have to be direct about something that tends to get softened in American history courses.
 
 The Constitution, as written in 1787, did not end slavery. It protected it.
 
@@ -89,7 +89,7 @@ This was not an oversight. The framers knew exactly what they were doing. The de
 
 The compromise: each enslaved person would count as three-fifths of a person for purposes of apportioning both representation and direct taxes. This is arithmetic with a moral dimension embedded in it. The number three-fifths was not derived from any principle. It was the result of a negotiation. Southern delegates initially proposed full counting. Northern delegates proposed none. They settled in the middle.
 
-<!-- → TABLE: The three slavery-related provisions of the original Constitution — columns: provision, article/clause, what it required, who it protected, who bore the cost — student should see that all three provisions operated as a system, not as isolated compromises -->
+<!-- → TABLE: The three slavery-related provisions of the original Constitution — columns: provision name, article and clause, what it required, who it protected, who bore the cost — student should see that the Three-Fifths Compromise, the slave trade protection, and the fugitive slave clause operated as a coordinated system of protections, not as isolated bargains -->
 
 The Constitution also postponed any federal abolition of the foreign slave trade until 1808 — giving the trade a constitutionally guaranteed twenty-year window. And Article IV required that if an enslaved person escaped to a free state, that state had to return them to their enslaver.
 
@@ -105,23 +105,23 @@ Writing a constitution is one thing. Persuading nine of thirteen states to ratif
 
 The ratification fight split Americans along a line that had nothing to do with philosophy and everything to do with a practical question: who do you trust with power?
 
-The Federalists — Hamilton, Madison, Jay — argued for the Constitution. They tended to be merchants, lawyers, large landowners, military officers, people whose lives operated at the scale of the national economy and who understood directly what it cost to have no functioning national government. A stable currency, enforceable contracts, a military capable of defending against Britain and Spain still present on the continent — these were not abstractions for them. They were business conditions.
+The Federalists — Hamilton, Madison, Jay — argued for the Constitution. They tended to be merchants, lawyers, large landowners, military officers: people whose lives operated at the scale of the national economy and who understood directly what it cost to have no functioning national government. A stable currency, enforceable contracts, a military capable of defending against Britain and Spain still present on the continent — these were not abstractions for them. They were business conditions.
 
 The Anti-Federalists feared the opposite problem. A strong national government, far away, with the power to tax and regulate — this sounded to many of them like exactly the thing they had fought the Revolution to escape. Their critique was not irrational. Power does concentrate. Governments do abuse the people they govern. The closer your government, the more directly you can see what it does and hold it accountable. A distant Congress dominated by wealthy merchants and educated lawyers was not a vision of self-government that appealed to a farmer in western Massachusetts who had just lived through Shays' Rebellion.
 
-<!-- → TABLE: Federalist vs. Anti-Federalist positions on four key issues — columns: issue, Federalist position, Anti-Federalist position, how the Constitution addressed (or didn't address) the concern — student should see that the ratification debate was not about philosophy in the abstract but about concrete interests and experiences -->
+<!-- → TABLE: Federalist vs. Anti-Federalist positions on four key issues — columns: issue, Federalist position, Anti-Federalist position, how the Constitution addressed (or failed to address) the concern — student should see that the ratification debate mapped onto concrete interests and experiences, not just abstract philosophy -->
 
 Madison, in Federalist No. 10, made the counterintuitive argument: the very size of the republic that the Anti-Federalists feared was actually its protection. In a large, diverse republic, no single faction could dominate permanently. The diversity of interests would require coalition-building. Any faction that tried to impose its will would face the combined resistance of every other faction with a competing interest. Small republics were actually more vulnerable to factional tyranny, because in a small republic, a faction with local strength could dominate everything.
 
 This argument is elegant. Whether it has held up in practice is a longer discussion. What it accomplished in 1787 and 1788 was enough to shift opinion in the crucial large states: Virginia ratified in June 1788, New York in July. With those two on board, the Constitution had the political legitimacy it needed.
 
-The instrument that moved New York was *The Federalist Papers* — eighty-five essays written by Madison, Hamilton, and Jay under the pseudonym "Publius," published in New York newspapers during the ratification fight. They were not propaganda. They were sophisticated political theory, written under deadline, arguing the Constitution was not a blueprint for tyranny but a mechanism for stable self-government. Hamilton's essays directly addressed the fear of an imperial presidency: one person, he argued, is actually easier to watch and hold accountable than a multitude. The electoral college would filter popular passion through the deliberate judgment of distinguished electors in each state. Whether that argument was correct is a separate question. It was persuasive enough.
+The instrument that moved New York was *The Federalist Papers* — eighty-five essays written by Madison, Hamilton, and Jay under the pseudonym "Publius," published in New York newspapers during the ratification fight. They were not propaganda. They were sophisticated political theory, written under deadline, arguing the Constitution was not a blueprint for tyranny but a mechanism for stable self-government. Hamilton's essays directly addressed the fear of an imperial presidency: one person, he argued, is actually easier to watch and hold accountable than a multitude. Whether that argument was correct is a separate question. It was persuasive enough.
 
-The key concession that moved Anti-Federalist opinion was the promise of a Bill of Rights. The Constitution as written protected individual liberties only implicitly, through structural mechanisms. The Anti-Federalists wanted explicit guarantees. Madison drafted what became the first ten amendments — the Bill of Rights — drawing on existing protections from English common law and state constitutions: freedom of speech, religion, and assembly; protection against unreasonable searches; the right to a jury trial; protection against self-incrimination; protection against cruel punishment; and a final catch-all amendment reserving all powers not granted to the federal government to the states or the people.
-
-<!-- → INFOGRAPHIC: Timeline of state ratification votes (1787–1790) showing date, vote margin, and the key sticking point in each state's debate — student should see that ratification was not a foregone conclusion and that the margin was close in the states that mattered most -->
+The key concession that moved Anti-Federalist opinion was the promise of a Bill of Rights. The Constitution as written protected individual liberties only implicitly, through structural mechanisms. The Anti-Federalists wanted explicit guarantees. Madison drafted what became the first ten amendments — drawing on existing protections from English common law and state constitutions: freedom of speech, religion, and assembly; protection against unreasonable searches; the right to a jury trial; protection against self-incrimination; protection against cruel punishment; and a final catch-all amendment reserving all powers not granted to the federal government to the states or the people.
 
 The Bill of Rights did not create new freedoms. It codified existing expectations into federal law, making them harder to erode. The codification mattered because it transformed customary protections into legal ones — protections you could argue in court, not just in pamphlets.
+
+<!-- → INFOGRAPHIC: Timeline of state ratification votes (1787–1790) showing date, vote margin, and the key sticking point in each state's debate — student should see that ratification was not a foregone conclusion, that the margin was close in Virginia and New York, and that the promise of a Bill of Rights was the specific concession that moved holdouts -->
 
 ---
 
@@ -129,13 +129,13 @@ The Bill of Rights did not create new freedoms. It codified existing expectation
 
 When the Constitution replaced the Articles, the national government acquired something it had previously lacked: the capacity to act.
 
-It could tax. It could borrow. It could regulate commerce. It had an executive branch — a president with the authority to enforce law and command the military. It had a federal judiciary to interpret law and resolve disputes between states. It had a Senate that gave smaller states a meaningful voice without parallyzing the larger ones entirely.
+It could tax. It could borrow. It could regulate commerce. It had an executive branch — a president with the authority to enforce law and command the military. It had a federal judiciary to interpret law and resolve disputes between states. It had a Senate that gave smaller states a meaningful voice without paralyzing the larger ones entirely.
 
 The amendment process — requiring two-thirds of both congressional chambers and three-quarters of the states — set a high bar for change. But it was not unanimity. The Articles had required unanimity, which meant one state could block any reform indefinitely. The Constitution's bar is high enough to prevent casual alteration, low enough to permit change when the need is broad and sustained.
 
 Federalism — the division of power between national and state governments — was preserved. The national government had enumerated powers: specific authorities the Constitution granted it. The states retained everything else. The Tenth Amendment would later make this explicit. This is the design of a country that genuinely could not agree on everything, encoding its disagreement into the structure of government rather than pretending the disagreement did not exist.
 
-The slavery compromise, as I said, did not resolve that question. It deferred it. The framers who were disgusted by slavery — and some of them were, on the record — made the calculation that union with slavery was preferable to a fracture that might result in two or three separate confederacies, each weaker and more vulnerable than a single nation. Whether that was the right calculation is not for me to decide. What I can tell you is that the cost of the decision was borne almost entirely by the people who had no seat at the table in Philadelphia.
+The slavery compromise did not resolve that question. It deferred it. The framers who were disgusted by slavery — and some of them were, on the record — made the calculation that union with slavery was preferable to a fracture that might result in two or three separate confederacies, each weaker and more vulnerable than a single nation. Whether that was the right calculation is not for me to decide. What I can tell you is that the cost of the decision was borne almost entirely by the people who had no seat at the table in Philadelphia.
 
 ---
 
@@ -153,7 +153,7 @@ Whether that theory still holds — whether the friction serves as a safeguard o
 
 ## Connections Forward
 
-The Federalist-Anti-Federalist divide did not end in 1790. It became the divide between Hamiltonians — who favored a strong federal government and commercial development — and Jeffersonians, who favored states' rights and an agrarian republic. That split structured American politics for decades and shaped the parties that would eventually emerge.
+The Federalist–Anti-Federalist divide did not end in 1790. It became the divide between Hamiltonians — who favored a strong federal government and commercial development — and Jeffersonians, who favored states' rights and an agrarian republic. That split structured American politics for decades and shaped the parties that would eventually emerge.
 
 The tension between national and state power has never been resolved. It reappeared in disputes over tariffs, internal improvements, and westward expansion. It exploded in the Civil War. It reappears whenever the federal government tries to enforce standards on the states — in civil rights, environmental protection, education, healthcare. The Constitution provided a framework for this struggle. It did not provide an answer.
 

@@ -143,3 +143,24 @@ The Supreme Court in *Citizens United* held that political spending is protected
 
 **5. The Gilens-Page finding.**
 Gilens and Page found that wealthy voters' policy preferences were adopted roughly fifteen times more often than poor voters' preferences when the two groups disagreed. Identify three mechanisms from the chapter that could explain this pattern. For each mechanism, specify whether it is potentially addressable through policy reform (and what reform would address it) or whether it reflects something deeper about how political systems work that policy alone cannot fix. Be precise about what "fix" would mean and what it would require.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **E. E. Schattschneider** wrote *The Semisovereign People* in 1960 — arguing that the pressure system "sings with a strong upper-class accent" because lobbying is structurally unequal. His concept of "scope of conflict" — that political outcomes change when more or fewer people get pulled in — is still the cleanest tool for analyzing interest-group politics.
+
+**Run this:**
+
+```
+Who was E. E. Schattschneider, and how does his work on the scope of conflict and the pressure system connect to the interest groups and lobbying dynamics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"E. E. Schattschneider"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Schattschneider's "scope of conflict" framing to a current lobbying battle — who's trying to expand the scope, who's trying to contain it?
+- Ask it to compare his 1960 view of pluralism's class bias with the modern data on lobbying expenditure.
+
+What changes? What gets better? What gets worse?

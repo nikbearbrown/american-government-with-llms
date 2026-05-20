@@ -79,3 +79,69 @@ Each content chapter has three companion files:
 ---
 
 _Generated overview-and-TOC README. Source files (`book.md`, `outline.md`, etc.) remain the working documents._
+
+---
+
+## What This Book Is
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Who This Book Is For
+
+reader's roadmap)
+
+This file is a stub. Sections 1–10 and 12–13 are placeholders for a later pass.
+Section 11 (A note about AI) is substantive and written.
+
+A good model for the full version: Pearl's "The Mind Over Data" introduction,
+Molnar's Interpretable ML introduction. Both are argument-first and tell the
+reader exactly what to expect from each chapter.
+-->
+
+# Introduction
+
+<!-- [1] COLD OPEN
+     A specific named scene with real stakes.
+     No "this book will...", no throat-clearing.
+
+---
+
+## How to Read It
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Signature Simulations
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## About the Author
+
+**Nik Bear Brown** teaches at Northeastern University. His interdisciplinary work spans artificial intelligence, computational reasoning, civic technology, and the human capacities those tools amplify or weaken. He is the founder of [Humanitarians AI](https://www.humanitarians.ai/), whose projects include [B Wells](https://bwells.org), a congressional accountability platform named after the investigative journalist Ida B. Wells.
+
+He holds a PhD in Computer Science from UCLA, an MBA and MS in Information Design and Data Visualization from Northeastern, and a BA in Biochemistry and Molecular Biology from UC Santa Cruz. He is the author of *Irreducibly Human* and the *with LLMs* textbook series.
+
+He works in Boston. [nikbearbrown.com](https://www.nikbearbrown.com) · [irreducibly.xyz](https://irreducibly.xyz) · [skepticism.ai](https://www.skepticism.ai)
+
+---
+
+## Copyright
+
+Copyright © 2026 Nik Bear Brown. All rights reserved.
+
+Published by Bear Brown, LLC.
+
+No part of this publication may be reproduced, distributed, or transmitted in
+any form or by any means without the prior written permission of the publisher,
+except in the case of brief quotations in critical reviews and certain other
+noncommercial uses permitted by copyright law.
+
+ISBN: [INSERT ISBN]
+
+First edition: 2026
+

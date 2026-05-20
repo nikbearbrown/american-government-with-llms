@@ -136,3 +136,24 @@ That's not a flaw in the American party system. It's a description of any system
 **Exercise 2.** Ask an AI assistant: *"A small but disciplined faction within the House majority threatens to withhold its votes from the Speaker unless it gets specific concessions on committee assignments and procedural rules. The Speaker cannot afford to lose those votes and cannot replace them with votes from the other party. Walk me through the leverage dynamics. What are the faction's incentives? What are the Speaker's options? How does this situation change if the majority is 220-200 versus 220-215?"* Use the response to examine how majority size shapes intraparty power.
 
 **Exercise 3.** Give an AI assistant the following: *"Compare the two-party system under plurality voting with a proportional representation system like Germany's. For each system: (a) describe how third parties fare, (b) explain the coalition-building dynamics, (c) identify what kinds of voter preferences get represented and which get excluded. Then defend a position: which system better serves democratic governance, and why?"* After reading the response, ask a follow-up: *"Does your answer change if we define 'better' as 'produces more stable governments' versus 'represents minority preferences more accurately'?"* Use the AI's reasoning to examine the trade-off between stability and representation.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **V.O. Key Jr.** was a political scientist whose 1949 book *Southern Politics in State and Nation* introduced the empirical study of American party systems — and his theory of "critical elections" still frames how we describe partisan realignment today.
+
+**Run this:**
+
+```
+Who was V.O. Key Jr., and how does his work on critical elections and party realignment connect to the political party dynamics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"V. O. Key Jr."** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Key's critical-elections theory to the period from 2000–2024 — was there a realignment, and what would Key have looked for as evidence?
+- Ask it to compare Key's southern one-party analysis with the partisan geography of the modern US.
+
+What changes? What gets better? What gets worse?

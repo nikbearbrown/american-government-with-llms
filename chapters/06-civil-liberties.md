@@ -147,3 +147,24 @@ The Miranda warnings were not written into the Constitution; they were invented 
 
 **5. The cost of civil liberties.**
 Choose one civil liberty discussed in this chapter and identify what it costs in concrete terms — not in the abstract, but in specific, documented cases where protecting the individual right allowed a harm to others. Then argue: given the cost, is the right still worth protecting? Use the framework from the final section of this chapter to structure your answer.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Pauli Murray** was a Black, queer civil rights lawyer whose 1944 Howard Law paper "States' Laws on Race and Color" provided the central legal strategy for *Brown v. Board of Education* — though she was rarely credited. She later became the first Black woman ordained an Episcopal priest.
+
+**Run this:**
+
+```
+Who was Pauli Murray, and how does their legal work on civil liberties and civil rights connect to the protections we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+```
+
+→ Search **"Pauli Murray"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through how Murray's "Jane Crow" framing — sex discrimination as analogous to race discrimination — shaped later 14th Amendment cases.
+- Add a constraint: "Answer as Murray's 1944 cover letter submitting their Howard Law paper for publication."
+
+What changes? What gets better? What gets worse?

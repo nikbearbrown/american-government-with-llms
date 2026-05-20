@@ -143,3 +143,24 @@ The FCC requires broadcast stations to offer equal time to political candidates.
 
 **5. The platform problem.**
 A private social media company removes a post by a sitting U.S. senator, citing its rules against health misinformation. The senator argues this is a violation of his First Amendment rights. Is it? Explain carefully, using the distinction between government action and private action that underlies First Amendment doctrine. Then argue whether the First Amendment *should* be extended to cover large private platforms, and what the practical consequences of that extension would be.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Ida B. Wells** was a Black investigative journalist who documented lynchings across the South in the 1890s — building one of the first systematic data-driven exposés in American journalism. Her work made the case that the press could be both witness and accountability mechanism.
+
+**Run this:**
+
+```
+Who was Ida B. Wells, and how does her investigative journalism on lynching and racial violence connect to the role of media in American government we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Ida B. Wells"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Wells's data-collection methods to modern data journalism — what's the same, what's new?
+- Add a constraint: "Answer as Wells's 1892 editorial defending her reporting after her Memphis newspaper office was destroyed."
+
+What changes? What gets better? What gets worse?

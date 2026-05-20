@@ -147,3 +147,24 @@ Evaluate: Is the War Powers Resolution constitutional? Is it good policy? If Con
 
 **5. Technology and the unintended presidency.**
 The framers designed the presidency before radio, television, or the internet existed. The bully pulpit — the president's ability to speak directly to the public — did not exist in the form we know it. Using the mechanism described in the chapter (president speaks → public responds → Congress responds), argue that modern communications technology has effectively rewritten the constitutional balance of power between the president and Congress without amending the Constitution. What would the framers have had to add to Article II to account for this possibility? Would such an addition have made the system more or less democratic?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Richard Neustadt** wrote *Presidential Power* in 1960 — arguing that the president's formal authority is far weaker than people imagine, and the office's actual power comes from persuasion, reputation, and bargaining. The book reshaped how political scientists, and several presidents, thought about the job.
+
+**Run this:**
+
+```
+Who was Richard Neustadt, and how does his theory of presidential power as persuasion connect to the formal and informal authorities of the presidency we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Richard Neustadt"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Neustadt's framework to a recent president — does the "power to persuade" thesis still hold in a polarized era?
+- Ask it to compare Neustadt's 1960 view with the modern literature on the unitary executive.
+
+What changes? What gets better? What gets worse?

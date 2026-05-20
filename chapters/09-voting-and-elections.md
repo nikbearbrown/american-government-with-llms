@@ -156,3 +156,24 @@ The argument in this chapter assumes that registration barriers reduce turnout i
 ## Still Puzzling
 
 The evidence on negative advertising is genuinely confusing. Campaigns run negative ads because they work — the candidate who runs them tends to win. But they appear to depress overall turnout, which should hurt both candidates. If negative ads lower turnout and turnout is lower for the demographics that support your opponent more than the demographics that support you, running negative ads is a rational strategy even if it makes the overall electorate smaller and less representative. I do not have a clean model of how campaigns calculate this trade-off, or whether they do consciously at all.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Lani Guinier** was the first Black woman tenured at Harvard Law and a leading scholar of voting rights and electoral systems. Her work on cumulative voting and proportional representation was so provocative that Bill Clinton withdrew her nomination as Assistant Attorney General for Civil Rights in 1993.
+
+**Run this:**
+
+```
+Who was Lani Guinier, and how does her work on voting rights and alternative electoral systems connect to the voting and election dynamics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Lani Guinier"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain cumulative voting in plain language and compare it to the winner-take-all systems used in most US elections.
+- Ask it to compare Guinier's proposals with the ranked-choice voting reforms now spreading in US cities.
+
+What changes? What gets better? What gets worse?

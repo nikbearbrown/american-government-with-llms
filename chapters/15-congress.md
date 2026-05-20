@@ -164,3 +164,24 @@ The argument here assumes that bicameralism and the filibuster primarily protect
 ## Still Puzzling
 
 I do not have a clean explanation for why voters evaluate their own representative differently from Congress as an institution. The mechanism described here — constituent service, local allocation, personal familiarity — is real. But it seems insufficient to explain a gap this large: 90 percent reelection rates alongside 15 percent institutional approval. Something else is operating. Possibly voters compartmentalize the failure of the institution and attribute it entirely to the *other* members, never to their own. If that is right, the incumbency advantage is partly a cognitive illusion — and understanding how to correct it would matter enormously for democratic accountability.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Barbara Jordan** was the first Black woman elected to Congress from the Deep South — and her 1974 statement during the Nixon impeachment hearings, opening with "My faith in the Constitution is whole; it is complete; it is total," became one of the most-cited speeches on congressional duty in the 20th century.
+
+**Run this:**
+
+```
+Who was Barbara Jordan, and how does her congressional career and her role in the Nixon impeachment hearings connect to the congressional powers and procedures we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Barbara Jordan"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Jordan's impeachment statement with the framing used in the Clinton and Trump impeachment debates — what constitutional reasoning carries through?
+- Add a constraint: "Answer as the closing paragraph of Jordan's 1974 statement, in her voice."
+
+What changes? What gets better? What gets worse?

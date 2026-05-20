@@ -136,3 +136,24 @@ The courts work because we act as if they work. That's not cynicism. That's how 
 **Exercise 2.** Ask an AI assistant: *"Explain the doctrine of stare decisis — what it requires, why it exists, and what the threshold should be for overruling precedent. Then apply it to this case: the Supreme Court in 1896 ruled in Plessy v. Ferguson that 'separate but equal' satisfies the Fourteenth Amendment. In 1954 it reversed that ruling in Brown v. Board of Education. Was Brown a legitimate use of the Court's power to overrule precedent, or was it judicial activism? Defend your answer."* After reading the response, follow up: *"Does your answer change if I tell you the same logic was used to overrule Roe v. Wade in Dobbs v. Jackson Women's Health Organization in 2022?"* Use the AI's reasoning to examine whether the threshold for overruling precedent is applied consistently across ideologically different cases.
 
 **Exercise 3.** Give an AI assistant this scenario: *"A president refuses to comply with a Supreme Court ruling, saying the Court has overstepped its authority and the ruling is unconstitutional. What happens? Walk me through the legal, political, and institutional consequences. Does the Court have any remedy? What tools does Congress have? What does history suggest about how this kind of confrontation resolves?"* After reading the response, ask: *"Andrew Jackson defied the Court in Worcester v. Georgia and faced no meaningful consequences. What has changed since 1832 that makes executive defiance of court orders less likely today — and what would have to change to make it more likely again?"* Use the AI's reasoning to examine how the Court's power depends on factors outside the Court itself.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Constance Baker Motley** argued ten civil rights cases before the Supreme Court — winning nine — including the case that desegregated the University of Mississippi. She became the first Black woman appointed to the federal bench, in 1966.
+
+**Run this:**
+
+```
+Who was Constance Baker Motley, and how does her litigation career and her time on the federal bench connect to the federal judiciary and judicial review we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Constance Baker Motley"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Motley's strategy in *Meredith v. Fair* (the Ole Miss desegregation case) — what specific legal moves did she rely on?
+- Ask it to compare Motley's NAACP Legal Defense Fund tactics with the modern impact-litigation playbook.
+
+What changes? What gets better? What gets worse?

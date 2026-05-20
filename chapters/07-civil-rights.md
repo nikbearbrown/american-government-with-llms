@@ -176,3 +176,24 @@ The chapter argues that the three-tier scrutiny framework works but requires enf
 ---
 
 *Tags: civil-rights, civil-liberties, equal-protection, scrutiny-tiers, Plessy, Brown, Fifteenth-Amendment, Voting-Rights-Act, disenfranchisement, Shelby-County, enforcement-gap*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Bayard Rustin** organized the 1963 March on Washington in eight weeks, advised Martin Luther King Jr. on nonviolence, and was pushed to the margins of civil rights memory because he was openly gay. His influence on tactics, strategy, and coalition-building is everywhere in the movement's history.
+
+**Run this:**
+
+```
+Who was Bayard Rustin, and how does his work on nonviolent strategy, the 1963 March on Washington, and labor-civil-rights coalitions connect to the civil rights movement we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Bayard Rustin"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Rustin's tactical approach to nonviolence with the approaches you covered in this chapter — what made his organizing distinctive?
+- Add a constraint: "Answer as a planning memo Rustin wrote to the March on Washington committee in July 1963."
+
+What changes? What gets better? What gets worse?

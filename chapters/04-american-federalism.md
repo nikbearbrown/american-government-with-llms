@@ -157,3 +157,24 @@ I suspect the Court is making political judgments under the cover of legal doctr
 ---
 
 *Tags: federalism, enumerated-powers, elastic-clause, supremacy-clause, cooperative-federalism, dual-federalism, grants, unfunded-mandates, venue-shopping, McCulloch, commerce-clause*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **William H. Riker** built much of modern federalism theory at Rochester in the 1960s — including a formal "rational choice" account of why federal bargains form and what makes them stable. His 1964 book *Federalism: Origin, Operation, Significance* is still the starting point for the field.
+
+**Run this:**
+
+```
+Who was William H. Riker, and how does his rational-choice theory of federalism connect to the federalist structures and dynamics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"William H. Riker"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Riker's framework to one specific federalism conflict in this chapter (marijuana laws, healthcare, environmental policy) — what does the rational-choice account predict?
+- Ask it to compare Riker's stability conditions with the actual evolution of American federalism since 1964.
+
+What changes? What gets better? What gets worse?

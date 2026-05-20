@@ -131,3 +131,24 @@ The text argues that congressional oversight is episodic and resource-limited. U
 
 **5. Designing accountability.**
 You are asked to design a single oversight mechanism for a federal agency of your choice that (a) does not politicize the bureaucracy by making career employees responsive to party loyalty, (b) does not rely on the episodic scandal-driven model of congressional oversight, and (c) is practically implementable given real resource constraints. What do you build? What specific problem does it solve that current mechanisms do not? What does it sacrifice or risk? Be precise about the mechanism — not just the goal.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **James Q. Wilson** wrote *Bureaucracy: What Government Agencies Do and Why They Do It* in 1989 — the book that taught a generation of political scientists how to look inside agencies rather than just complain about them. His typology of agencies by observability of outputs and outcomes is still the cleanest tool for diagnosing bureaucratic behavior.
+
+**Run this:**
+
+```
+Who was James Q. Wilson, and how does his framework for analyzing bureaucratic behavior connect to the structure and politics of the federal bureaucracy we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"James Q. Wilson"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Wilson's typology (production, procedural, craft, coping) to one agency from this chapter — what does it predict about reform difficulty?
+- Ask it to compare Wilson's diagnostic with the modern "deep state" rhetoric — what does the framework say is right, what does it say is wrong?
+
+What changes? What gets better? What gets worse?

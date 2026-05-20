@@ -167,3 +167,24 @@ Then ask: *"What is the single most common reason people who identify this kind 
 ---
 
 *Tags: government, public-goods, free-rider-problem, commons, civic-engagement, elite-theory, pluralism, voting, participation-mechanisms*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Jane Addams** founded Hull House in Chicago in 1889 — a settlement where civic engagement, immigration policy, labor reform, and social science research all lived under one roof. She won the Nobel Peace Prize in 1931 and was, for a long stretch, the most respected woman in America.
+
+**Run this:**
+
+```
+Who was Jane Addams, and how does her work on settlement houses and civic engagement connect to the institutions of American democratic participation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Jane Addams"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Addams's idea of "civic engagement" to how the term is used in this chapter — what's different?
+- Add a constraint: "Answer as a Hull House intake worker explaining the building's purpose to a new immigrant in 1900."
+
+What changes? What gets better? What gets worse?

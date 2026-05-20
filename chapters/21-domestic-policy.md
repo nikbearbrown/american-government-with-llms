@@ -143,3 +143,24 @@ Social Security and Medicare are universal entitlements with strong political pr
 
 **5. The alignment problem.**
 The three-streams model implies that policy is largely reactive — it moves when conditions align, not when problems are most urgent. Argue the strongest case that this is actually a good design feature, not a bug. What would a system look like that responded to problems in proportion to their urgency? What dangers would such a system create? Then argue the countercase: what is lost when a system's response time is calibrated to political alignment rather than problem severity? Use Social Security solvency or climate change as your example.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Frances Perkins** was the first woman to serve in a US presidential cabinet — Secretary of Labor under FDR — and the principal architect of Social Security, unemployment insurance, the minimum wage, and the 40-hour workweek. Most of the domestic policy architecture you live inside passed through her desk.
+
+**Run this:**
+
+```
+Who was Frances Perkins, and how does her role in designing Social Security and the New Deal labor protections connect to the domestic policy programs we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Frances Perkins"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace one specific 1935 design decision in the Social Security Act — and explain why that decision still shapes the program today.
+- Add a constraint: "Answer as Perkins's 1935 memo to FDR explaining why the bill must include both old-age insurance and unemployment insurance together."
+
+What changes? What gets better? What gets worse?

@@ -191,3 +191,24 @@ You are given the same constraints the framers had: thirteen states with differe
 
 **5. The Tenth Amendment and its limits.**
 The Tenth Amendment reserves powers not delegated to the federal government to the states or the people. But the Constitution also includes a "necessary and proper" clause allowing Congress to pass laws required to carry out its enumerated powers. The Supreme Court in *McCulloch v. Maryland* (1819) read this broadly to uphold a national bank not explicitly authorized by the Constitution. Write an argument that this reading is consistent with the framers' intent. Then write an argument that it contradicts it. Which argument do you find more persuasive, and why?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Mercy Otis Warren** was an anti-Federalist political writer during the ratification debates — and wrote one of the first histories of the American Revolution, published in 1805. She corresponded with John Adams, Thomas Jefferson, and Abigail Adams; she was also one of the most influential women in Founding-era political theory.
+
+**Run this:**
+
+```
+Who was Mercy Otis Warren, and how do her anti-Federalist writings and her history of the American Revolution connect to the constitutional debates we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Mercy Otis Warren"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Warren's anti-Federalist arguments with the Federalist Papers — what specific concerns did she raise that the Federalists answered, and which did they dodge?
+- Add a constraint: "Answer as Warren's 1788 pamphlet to her fellow Massachusetts citizens."
+
+What changes? What gets better? What gets worse?

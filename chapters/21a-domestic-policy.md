@@ -130,3 +130,24 @@ The three-streams model assumes the streams are genuinely independent — that p
 ## Still Puzzling
 
 What causes the political stream to open at specific moments remains genuinely unclear to me. Why did health care reform happen in 2010 but not in 1993 despite similar Democratic majorities and similar public support? Why did the political stream for climate policy not open during the 2009–2010 window when Democrats had large Congressional majorities and public concern about climate was high? The three-streams model names the phenomenon but does not fully explain the mechanism by which political windows open and close. That mechanism is what I most want to understand and do not.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Marian Wright Edelman** founded the Children's Defense Fund in 1973 — the first national advocacy organization devoted to children's welfare as a domestic-policy issue in its own right. She was the first Black woman admitted to the Mississippi Bar and shaped the politics of Head Start, child nutrition, and CHIP.
+
+**Run this:**
+
+```
+Who is Marian Wright Edelman, and how does her work on children's welfare policy connect to the domestic policy programs and advocacy strategies we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Marian Wright Edelman"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare the Children's Defense Fund's advocacy model to a single-issue lobby (NRA, AARP) — what makes a coalition-style advocate different?
+- Ask it to walk through how Edelman's framing of children's needs as a policy claim differs from framing them as a moral claim.
+
+What changes? What gets better? What gets worse?

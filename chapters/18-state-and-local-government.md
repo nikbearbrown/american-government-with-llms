@@ -140,3 +140,24 @@ The argument here assumes that state preemption of local authority is routine an
 ## Still Puzzling
 
 Why states rationally impose unfunded mandates on local governments rather than funding the requirements they create remains genuinely unclear to me. The short-term logic is obvious: the state gets political credit for requiring a service without paying for it. But the long-term cost — local governments that cannot meet mandates, eroding service quality, occasional fiscal collapse — falls partly back on the state in the form of bailouts, takeovers, and political embarrassment. That long-term cost seems systematically underweighted. Whether that is a failure of political time horizons, a genuine belief that local governments can absorb the cost, or something else entirely, I am not sure.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Jane Jacobs** was a writer with no formal credentials who, in 1961, published *The Death and Life of Great American Cities* — a book that dismantled the dominant theory of city planning and reshaped how state and local governments approach zoning, housing, and street design.
+
+**Run this:**
+
+```
+Who was Jane Jacobs, and how does her critique of mid-century urban planning connect to the powers and decisions of state and local government we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Jane Jacobs"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Jacobs's "eyes on the street" framework to one specific land-use or policing debate in your own city.
+- Add a constraint: "Answer as Jacobs's 1961 letter to a city planner she's just publicly humiliated."
+
+What changes? What gets better? What gets worse?

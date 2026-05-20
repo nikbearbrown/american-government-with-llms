@@ -140,3 +140,24 @@ Hamilton described the judiciary as having neither force nor will, only judgment
 The Cuban Missile Crisis worked because Kennedy had the authority to act, the wisdom to consult, and the luck that Khrushchev was rational and wanted an off-ramp. Two of those three are controllable. One isn't. The machinery of American foreign policy can give future presidents the authority and the institutions for consultation. It cannot guarantee they will use them wisely, or that the adversary on the other end will be rational enough to take the off-ramp when it's offered.
 
 That's not a design flaw. It's the condition of operating in a world that doesn't organize itself around the convenience of any single nation's constitutional architecture. The machinery is what we have. The judgment about how to use it is what we have to cultivate.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Edward Said** was a Palestinian-American literary critic whose 1978 book *Orientalism* reshaped how scholars and diplomats think about Western framings of the Middle East — and, by extension, how foreign-policy analysts examine their own assumptions about other regions.
+
+**Run this:**
+
+```
+Who was Edward Said, and how does his critique of Orientalism connect to the framing of US foreign policy toward the Middle East and other regions we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Edward Said"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Said's framework to one current US foreign policy framing — what assumptions does the framing carry?
+- Ask it to compare Said's critique with the realist and liberal-internationalist foreign-policy traditions you saw in this chapter.
+
+What changes? What gets better? What gets worse?

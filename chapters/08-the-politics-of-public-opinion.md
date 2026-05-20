@@ -148,3 +148,24 @@ I don't fully understand why the margin of error in polling is so consistently u
 **Exercise 2.** Ask an AI assistant: *"Design a push poll on the question of whether the federal minimum wage should be raised to $20 per hour. Write five questions designed to push respondents toward opposing the increase. Then write five neutral questions on the same topic."* When you receive the output, examine the difference. What techniques does the push poll use? Could a respondent detect the manipulation? Then ask: *"Would a respondent who knew what a push poll was be able to identify these questions as manipulative?"* Use the AI's reasoning to think about the limits of framing effects.
 
 **Exercise 3.** Give an AI assistant the following scenario: *"A senator from a purple state is deciding how to vote on a controversial immigration bill. Her internal polling shows her constituents are split 51–49 against the bill, within the margin of error. The bill aligns with her own policy views and she believes it would benefit her state economically, but her party leadership is pushing hard for her vote in favor. Walk her through the delegate vs. trustee framework and recommend how she should vote, and why."* After reading the response, ask: *"Does your recommendation change if she's up for reelection in eight months versus in five years?"* Use the AI's reasoning to examine how the delegate-trustee tension plays out differently at different points in an electoral cycle.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Paul Lazarsfeld** was an Austrian-American sociologist who built the modern study of public opinion at Columbia in the 1940s — including the "two-step flow of communication" theory, which showed that media influence usually passes through opinion leaders rather than reaching audiences directly.
+
+**Run this:**
+
+```
+Who was Paul Lazarsfeld, and how does his work on the two-step flow of communication and public opinion measurement connect to the dynamics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Paul Lazarsfeld"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Lazarsfeld's two-step flow to the modern social media environment — who are the opinion leaders now, and is the model still right?
+- Ask it to compare Lazarsfeld's panel survey methods with how public opinion is measured today.
+
+What changes? What gets better? What gets worse?
